@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#barra{
+  background-color: #FFC0CB;
+}
+
+.busqueda {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.input{
+  padding: 5px;
+
+}
+
+.boton {
+  background-color: #FFC0CB;
+  
+}
